@@ -1,0 +1,24 @@
+.page-buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  align-self: flex-end;
+  align-items: flex-end;
+}
+
+.control-btn {
+  border: none;
+  height: 50px;
+  width: 75px;
+  margin: 15px;
+  border-radius: 6px;
+  background-color: aqua;
+  font-weight: 600;
+}
+
+.page-no {
+  align-self: center;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: bold;
+}
